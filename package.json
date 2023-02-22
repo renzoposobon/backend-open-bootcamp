@@ -6,8 +6,12 @@
   "scripts": {
     "start": "node index.js",
     "saludar": "node hola_mundo.js",
+    "poo": "node poo.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "renzo posobon",
-  "license": "ISC"
+  "license": "ISC",
+  "devDependencies": {
+    "eslint": "^8.34.0"
+  }
 }

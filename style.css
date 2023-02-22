@@ -1,0 +1,35 @@
+.seccion {
+  background-color: darkblue;
+  padding: 1rem;
+  margin: 1rem;
+}
+
+.parrafo {
+  background-color: white;
+  padding: 1rem;
+}
+
+.dragging {
+  opacity: 0.3;
+}
+
+.drop {
+  animation: lat 1s linear infinite;
+}
+
+@keyframes lat {
+  to {
+    zoom: 1;
+  }
+  from {
+    zoom: 1.5;
+  }
+}
+
+.imagen-fantasma {
+  width: 900px;
+  height: 200px;
+  background-color: red;
+  position: absolute;
+  left: -100vw;
+}

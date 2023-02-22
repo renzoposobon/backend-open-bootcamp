@@ -14,3 +14,11 @@
 {"level":"warn","message":"Mensaje de advertencia","service":"user-service"}
 {"level":"error","message":"Esto es un error","service":"user-service"}
 {"level":"info","message":"Correcto, es 10","service":"user-service"}
+{"level":"info","message":"Correcto, es 10","service":"user-service"}
+{"level":"warn","message":"Fin del proceso","service":"user-service"}
+{"level":"info","message":"Correcto, es 10","service":"user-service"}
+{"level":"warn","message":"Fin del proceso","service":"user-service"}
+{"level":"info","message":"Correcto, es 10","service":"user-service"}
+{"level":"warn","message":"Fin del proceso","service":"user-service"}
+{"level":"info","message":"Correcto, es 10","service":"user-service"}
+{"level":"warn","message":"Fin del proceso","service":"user-service"}
